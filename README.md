@@ -89,7 +89,6 @@ leaf_values = {   # leaves of E are E1, E2, E3, left to right, and so on
 4. Explain: why are the best move and the value the same in every run, why do the node counts differ,
    and what rule did you use to build the best ordering?
 
-**h. Oral defence.** Be ready to explain any line of your code in the demo.
 
 ### Submission
 
